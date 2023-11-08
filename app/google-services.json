@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584964589632",
+    "project_id": "kitchen-companion-login",
+    "storage_bucket": "kitchen-companion-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584964589632:android:5a952805313c7ddba5b7a5",
+        "android_client_info": {
+          "package_name": "com.example.testapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKRsSSb5Zyv9nmYoyV7vQN0KxekgeEAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
