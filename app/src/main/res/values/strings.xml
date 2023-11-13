@@ -52,4 +52,5 @@
     <string name="sign_in">Sign in</string>
     <string name="kitchen_companion_logo">Kitchen companion Logo</string>
     <string name="kichen_companion_sign_in_logo">Kichen Companion sign in logo</string>
+    <string name="first_name">First Name</string>
 </resources>
