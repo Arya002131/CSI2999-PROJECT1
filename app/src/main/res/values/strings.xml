@@ -57,4 +57,5 @@
     <string name="username">Username</string>
     <string name="new_password">Password</string>
     <string name="new_email">Email</string>
+    <string name="create_account">Create Account</string>
 </resources>
