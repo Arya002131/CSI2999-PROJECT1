@@ -53,4 +53,8 @@
     <string name="kitchen_companion_logo">Kitchen companion Logo</string>
     <string name="kichen_companion_sign_in_logo">Kichen Companion sign in logo</string>
     <string name="first_name">First Name</string>
+    <string name="todo1">TODO</string>
+    <string name="username">Username</string>
+    <string name="new_password">Password</string>
+    <string name="new_email">Email</string>
 </resources>
