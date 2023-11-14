@@ -58,4 +58,6 @@
     <string name="new_password">Password</string>
     <string name="new_email">Email</string>
     <string name="create_account">Create Account</string>
+    <string name="recipes">Recipes</string>
+    <string name="create_new_recipe">Create New Recipe</string>
 </resources>
